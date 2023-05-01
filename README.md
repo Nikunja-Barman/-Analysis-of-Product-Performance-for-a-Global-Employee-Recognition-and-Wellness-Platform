@@ -13,8 +13,8 @@ The data used for this project was obtained from the company's database and incl
 # Methodology: 
 The first step in the analysis was to clean and preprocess the data. This involved removing any missing or invalid data and normalizing the variables to ensure that they were on the same scale. Exploratory data analysis (EDA) was then conducted to gain insights into the distribution and relationships between the variables.The next step was to identify the key factors that affect the performance of the product. This was done using correlation analysis and feature selection techniques. A regression model was then developed to predict the performance of the product based on the identified factors.
 
-#Results: 
+# Results: 
 The results of the analysis showed that the frequency of product usage, the type of rewards offered, and the satisfaction ratings of the customers were the most significant factors affecting the performance of the product. The developed regression model had a high degree of accuracy in predicting the performance of the product.
 
-#Conclusion: 
+# Conclusion: 
 In conclusion, the analysis provides valuable insights into the performance of the customer rewarding product offered by the global employee recognition and wellness platform. The developed statistical model can be used by the company to optimize the product's performance and enhance customer satisfaction. The findings of the analysis are presented in a clear and concise manner using data visualizations and statistical tables, and the code for the analysis is available on GitHub for reproducibility and transparency.
